@@ -36,3 +36,5 @@ class Solution {
 
 
 //Successfully running for testcases and gives Time limit exceed error for with 28 rows
+//time complexity is 3 * Math.pow(2, n-1)
+
